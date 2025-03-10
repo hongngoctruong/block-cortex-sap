@@ -26,7 +26,7 @@
   },
       "models": [
         {
-            "name": "cortex_sap_operational",
+            "name": "cortex_sap_operational_mde",
             "connection_constant": "CONNECTION_NAME"
         }
     ]
