@@ -1,15 +1,15 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "dgcp-sandbox-mde-sf"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project ID"
+  value: "dgcp-sandbox-mde-sf"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "mde_data"
   export: override_required
 }
 
